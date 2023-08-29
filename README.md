@@ -2,7 +2,7 @@
 
 
 
-Visit https://domain-quality.vercel.app to search for or download ratings.
+Visit https://www.domain-quality.info/ to search for or download ratings.
 
 For methodology, see our [manuscript](https://psyarxiv.com/qy94s).
 

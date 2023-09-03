@@ -17,7 +17,7 @@ Lin, H., Lasser, J., Lewandowsky, S., Cole, R., Gully, A., Rand, D., & Pennycook
 ```
 @article{Lin2023Sep,
 	author = {Lin, Hause and Lasser, Jana and Lewandowsky, Stephan and Cole, Rocky and Gully, Andrew and Rand, David G. and Pennycook, Gordon},
-	title = {{High level of correspondence across different news domain quality rating sets}},
+	title = {High level of correspondence across different news domain quality rating sets},
 	journal = {PNAS Nexus},
 	pages = {pgad286},
 	year = {2023},

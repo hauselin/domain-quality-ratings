@@ -13,3 +13,18 @@ If you want only the `pc1` ratings, download `domain_pc1.csv` instead.
 # Citation
 
 Lin, H., Lasser, J., Lewandowsky, S., Cole, R., Gully, A., Rand, D., & Pennycook, G. (2023). High level of agreement across different news domain quality ratings. PNAS Nexus. https://doi.org/10.1093/pnasnexus/pgad286
+
+```
+@article{Lin2023Sep,
+	author = {Lin, Hause and Lasser, Jana and Lewandowsky, Stephan and Cole, Rocky and Gully, Andrew and Rand, David G. and Pennycook, Gordon},
+	title = {{High level of correspondence across different news domain quality rating sets}},
+	journal = {PNAS Nexus},
+	pages = {pgad286},
+	year = {2023},
+	month = sep,
+	issn = {2752-6542},
+	doi = {10.1093/pnasnexus/pgad286},
+	URL = {https://doi.org/10.1093/pnasnexus/pgad286},
+	eprint = {https://doi.org/10.1093/pnasnexus/pgad286}
+}
+```

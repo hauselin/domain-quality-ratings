@@ -6,7 +6,7 @@ For methodology, see our [manuscript](https://doi.org/10.1093/pnasnexus/pgad286)
 
 # Citation
 
-Lin, H., Lasser, J., Lewandowsky, S., Cole, R., Gully, A., Rand, D., & Pennycook, G. (2023). High level of agreement across different news domain quality ratings. PNAS Nexus. https://doi.org/10.1093/pnasnexus/pgad286
+Lin, H., Lasser, J., Lewandowsky, S., Cole, R., Gully, A., Rand, D. G., & Pennycook, G. (2023). High level of correspondence across different news domain quality rating sets. PNAS Nexus, 2(9), 1-8. https://doi.org/10.1093/pnasnexus/pgad286
 
 ```
 @article{Lin2023Sep,
